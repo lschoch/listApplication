@@ -1,5 +1,7 @@
 package listApplication;
 
+// Class to hold an address
+
 public class Address {
 	private String street;
 	private String city;
